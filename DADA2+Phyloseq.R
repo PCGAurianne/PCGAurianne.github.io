@@ -5,6 +5,7 @@ path<- "/home/rstudio/DADA2/MiSeq_SOP"
 path
 list.files(path)
 
+
 install.packages(phyloseq)
 library(phyloseq)
 library(ggplot2)
